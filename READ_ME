@@ -1,0 +1,4 @@
+This proposed framework is analysing the Tweets posted about the Tweety and classifying the tweets as positive, negative and neutral tweets.
+Then, it has been displayed in a piechart for easy visualization. The proposed framework is interlinking python and Twitter using Tweepy library along with Textbolb module .
+It also displays few recent tweets classified based on their polarity (positive, negative, neutral) respectively
+for better understanding of the behaviours and characteristics of the Tweety given as input.
